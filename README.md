@@ -1,6 +1,7 @@
 # challenge-project-fourth
 ## Screenshot and Deployed Link
 https://jessclark1234.github.io/javascript-quiz/
+
 ![alt text](Screenshot (58).png)
 ## Description
 The purpose of this application was to teach us how to use JavaScript to create a timed quiz with a highscore. This was to teach us how to better understand arrays, localStorage, connecting eventlisteners and functions.
